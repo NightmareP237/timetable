@@ -38,6 +38,19 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  localization: ^2.1.0
+  firebase_core: ^1.10.2
+  firebase_auth: ^3.3.0
+  cloud_firestore: ^3.2.1
+  firebase_storage: ^10.2.0
+  adaptive_theme: ^3.1.1
+  flutter_svg: ^1.0.3
+  image_picker: ^0.8.5+3
+  flutter_code_scanner: ^0.0.1+1
+  animate_do: ^2.1.0
+  flutter_switch: ^0.3.2
+  shared_preferences: ^2.0.15
+  animator: ^3.2.0  
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
